@@ -1,0 +1,22 @@
+{
+  "base_price": 3995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 10% of their local market for proven foot traffic and review volume within the last 30 days and a market scope of 10km. \n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 10% Active Review Whales in New York-Newark-Jersey City Metro Area, NY-NJ, US",
+  "export_job_id": "157343d7-0232-4072-a08b-bda3b1f20f0b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 517575,
+  "location_name": "New York-Newark-Jersey City, NY-NJ",
+  "location_type": "metro",
+  "repo_name": "top-10-active-review-whales-in-new-york-newark-jersey-city-metro-area-ny-nj-us-sample-517575",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/517575/beamstation_517575_restaurants-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv",
+  "sample_pct": 0.45,
+  "sample_records": 10,
+  "sample_sha256": "2a1e6b2290cf9fbf120543c70d3c1d2b39dcd598526464fda9a755766962096f",
+  "sample_size_bytes": 57347,
+  "total_records": 2236,
+  "updated_at": "2026-04-01T00:42:51.117686+00:00"
+}
