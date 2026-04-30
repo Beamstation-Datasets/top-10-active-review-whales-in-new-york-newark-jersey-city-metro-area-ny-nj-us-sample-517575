@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8c17bf39-840d-463c-872c-d53a9ae34a25",
+  "export_job_id": "3cf9546b-2980-4e59-9b03-d810d99497f6",
   "id_short": 517575,
-  "published_at": "2026-04-22T19:50:57Z",
+  "published_at": "2026-04-30T07:33:17Z",
   "repo_name": "top-10-active-review-whales-in-new-york-newark-jersey-city-metro-area-ny-nj-us-sample-517575",
   "sample_asset_name": "beamstation_517575_restaurants-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/517575/beamstation_517575_restaurants-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv",
-  "sample_records": 200,
-  "sample_sha256": "9969e4ac492bd3ba06656a8f9f6826c1e543ac6bc8016fbf5f589c1067f76fe0",
-  "sample_size_bytes": 778706,
-  "total_records": 2005
+  "sample_records": 12,
+  "sample_sha256": "1fff2c829d76bf5585b0f2707b5d4920c4d910545649d0f83f4b5c704869f37c",
+  "sample_size_bytes": 65201,
+  "total_records": 124
 }
